@@ -1,0 +1,71 @@
+# Written by MakeHuman 1.2.0 beta2
+version v1.2.0
+camera 10.5 338.0 0.1278102087841472 0.8943223618243673 -0.32835038273697714 1.0624999999999996
+modifier eyes/r-eye-eyefold-angle-down|up 0.470000
+modifier eyes/r-eye-epicanthus-in|out -0.320000
+modifier eyes/r-eye-eyefold-concave|convex -0.292000
+modifier eyes/r-eye-eyefold-down|up 0.578000
+modifier eyes/r-eye-height1-decr|incr 0.184000
+modifier eyes/r-eye-height2-decr|incr 0.238000
+modifier eyes/r-eye-height3-decr|incr -0.224000
+modifier eyes/r-eye-push2-in|out 0.130000
+modifier eyes/r-eye-trans-in|out -0.198000
+modifier eyes/r-eye-scale-decr|incr 0.428000
+modifier eyes/l-eye-bag-height-decr|incr 0.606000
+modifier eyes/l-eye-eyefold-angle-down|up -0.170000
+modifier eyes/l-eye-scale-decr|incr 0.782000
+modifier eyes/l-eye-corner1-down|up -0.714000
+modifier nose/nose-trans-down|up -0.142000
+modifier nose/nose-trans-backward|forward -0.482000
+modifier nose/nose-scale-vert-decr|incr 0.156000
+modifier nose/nose-scale-horiz-decr|incr 0.688000
+modifier nose/nose-scale-depth-decr|incr 0.238000
+modifier nose/nose-nostrils-width-decr|incr -0.334000
+modifier nose/nose-base-down|up 0.170000
+modifier nose/nose-width2-decr|incr -0.210000
+modifier nose/nose-width3-decr|incr 0.170000
+modifier nose/nose-compression-compress|uncompress 1.000000
+modifier nose/nose-curve-concave|convex 0.210000
+modifier nose/nose-greek-decr|incr 0.402000
+modifier nose/nose-hump-decr|incr 0.292000
+modifier nose/nose-volume-decr|incr 0.020000
+modifier nose/nose-point-down|up 0.088000
+modifier nose/nose-septumangle-decr|incr 0.564000
+modifier nose/nose-flaring-decr|incr -0.374000
+modifier mouth/mouth-scale-horiz-decr|incr -0.620000
+modifier mouth/mouth-scale-vert-decr|incr -0.768000
+modifier ears/r-ear-scale-decr|incr 0.156000
+modifier ears/l-ear-scale-decr|incr 0.198000
+modifier chin/chin-jaw-drop-decr|incr -0.510000
+modifier chin/chin-cleft-decr|incr -1.000000
+modifier torso/torso-vshape-decr|incr -0.782000
+modifier torso/torso-muscle-dorsi-decr|incr 0.278000
+modifier torso/torso-muscle-pectoral-decr|incr -0.864000
+modifier armslegs/r-hand-fingers-length-decr|incr 0.278000
+modifier armslegs/r-lowerleg-muscle-decr|incr -0.660000
+modifier armslegs/r-upperleg-muscle-decr|incr -0.646000
+modifier armslegs/l-lowerleg-muscle-decr|incr -0.374000
+modifier armslegs/l-upperleg-muscle-decr|incr -0.646000
+modifier breast/BreastSize 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails/Age 0.565000
+modifier macrodetails/African 0.000000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 1.000000
+modifier macrodetails-universal/Muscle 0.408000
+modifier macrodetails-universal/Weight 0.000000
+modifier macrodetails-height/Height 0.558000
+modifier macrodetails-proportions/BodyProportions 0.728000
+proxy male_generic df01ef58-b37f-479e-9f97-b4c1b9626aa8
+skeleton game_engine.mhskel
+eyebrows eyebrow009 55b3b52a-379e-426d-b320-562ed57202b3
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose standing04.bvh
+clothes M_Swimming_trunks_02 22824269-01b9-435d-a83e-4f6c4f05ad59
+clothesHideFaces True
+expression sceptical01.mhpose
+skinMaterial skins/middleage_caucasian_male/middleage_caucasian_male.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+material eyebrow009 55b3b52a-379e-426d-b320-562ed57202b3 eyebrow009.mhmat
+subdivide False

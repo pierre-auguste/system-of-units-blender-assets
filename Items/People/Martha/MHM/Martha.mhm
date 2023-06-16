@@ -1,0 +1,73 @@
+# Written by MakeHuman 1.2.0 beta2
+version v1.2.0
+name Joan
+camera 9.471058880791816 333.19667134589287 -0.05248819507793137 0.171910011480943 0.5112608735419432 0.4125000000000001
+modifier head/head-age-decr|incr -0.156000
+modifier head/head-fat-decr|incr -0.782000
+modifier head/head-scale-horiz-decr|incr -0.238000
+modifier head/head-scale-vert-decr|incr -0.062000
+modifier eyebrows/eyebrows-trans-backward|forward 0.112000
+modifier eyebrows/eyebrows-angle-down|up 0.096000
+modifier eyebrows/eyebrows-trans-down|up 0.318000
+modifier eyes/r-eye-epicanthus-in|out -1.000000
+modifier eyes/r-eye-eyefold-concave|convex -0.412000
+modifier eyes/r-eye-eyefold-down|up 0.158000
+modifier eyes/r-eye-height2-decr|incr -0.366000
+modifier eyes/r-eye-scale-decr|incr 0.254000
+modifier eyes/l-eye-epicanthus-in|out -1.000000
+modifier eyes/l-eye-eyefold-concave|convex -0.222000
+modifier eyes/l-eye-height2-decr|incr -0.238000
+modifier eyes/l-eye-scale-decr|incr 0.318000
+modifier nose/nose-scale-depth-decr|incr 0.286000
+modifier mouth/mouth-lowerlip-height-decr|incr -0.888000
+modifier mouth/mouth-lowerlip-width-decr|incr 0.080000
+modifier mouth/mouth-upperlip-height-decr|incr 0.334000
+modifier ears/r-ear-scale-decr|incr -0.064000
+modifier ears/r-ear-lobe-decr|incr 0.096000
+modifier ears/l-ear-scale-decr|incr -0.080000
+modifier ears/l-ear-lobe-decr|incr 0.174000
+modifier cheek/l-cheek-volume-decr|incr -0.020000
+modifier cheek/l-cheek-bones-decr|incr 0.456000
+modifier cheek/l-cheek-inner-decr|incr 0.688000
+modifier cheek/l-cheek-trans-down|up 1.000000
+modifier cheek/r-cheek-bones-decr|incr 0.456000
+modifier cheek/r-cheek-inner-decr|incr 0.660000
+modifier cheek/r-cheek-trans-down|up 1.000000
+modifier hip/hip-trans-in|out -0.074000
+modifier hip/hip-trans-backward|forward -0.020000
+modifier hip/hip-waist-down|up -0.428000
+modifier pelvis/pelvis-tone-decr|incr -0.224000
+modifier breast/BreastSize 0.755000
+modifier breast/BreastFirmness 0.606000
+modifier breast/breast-trans-down|up 0.550000
+modifier breast/breast-dist-decr|incr -0.482000
+modifier breast/breast-point-decr|incr 0.282000
+modifier breast/nipple-size-decr|incr 1.000000
+modifier breast/nipple-point-decr|incr 0.194000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.408000
+modifier macrodetails/African 0.340000
+modifier macrodetails/Asian 0.660000
+modifier macrodetails/Caucasian 0.000000
+modifier macrodetails-universal/Muscle 0.429000
+modifier macrodetails-universal/Weight 0.136000
+modifier macrodetails-height/Height 0.706000
+modifier macrodetails-proportions/BodyProportions 0.435000
+proxy female_generic 84b1a384-1af0-4126-9030-222edb78b318
+hair Braid01 eead6f99-d6c6-4f6b-b6c2-210459d7a62e
+eyelashes eyelashes04 efd75993-8de1-43fb-b410-adc203091d25
+skeleton game_engine.mhskel
+eyebrows eyebrow003 4089e4e3-b842-40f4-91a4-0686118f7535
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose standing04.bvh
+clothes Cocktaildress 254f01e9-0c34-47fe-a0a2-e3825d849f73
+clothes high_heels_Library ac4f3598-075b-4770-b486-743db5ce3798
+clothes LaceChoker e9f248be-097d-424a-a7e4-37cedb34f07a
+clothesHideFaces True
+expression smile01.mhpose
+skinMaterial skins/middleage_african_female/middleage_african_female.mhmat
+material Braid01 eead6f99-d6c6-4f6b-b6c2-210459d7a62e braid01.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+material eyebrow003 4089e4e3-b842-40f4-91a4-0686118f7535 eyebrow003.mhmat
+material eyelashes04 efd75993-8de1-43fb-b410-adc203091d25 eyelashes04.mhmat
+subdivide True
