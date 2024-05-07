@@ -6,6 +6,6 @@
 
 <hr>
 
-This is the Blender depot. For more information visit :
+This is the System of Units' Blender depot. For more information visit :
 * https://github.com/pierre-auguste/system-of-units
 * https://system-of-units.com
